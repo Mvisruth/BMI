@@ -9,7 +9,7 @@ function BmiList({range ,bmi}) {
         <thead>
           <tr>
             <th>Type</th>
-            <th>MBI</th>
+            <th>BMI</th>
             <th>Weight</th>
           </tr>
         </thead>
